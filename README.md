@@ -6,6 +6,7 @@ I'm from Hyderabad India. I completed my under graduation in Computer science an
 
 ## Plans
 - I'm interested in working as a web developer.
+- I also want to become an entrepreneur.
 
 ## Links
 [Github](https://github.com/Mahender1166)
